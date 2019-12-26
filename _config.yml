@@ -7,13 +7,13 @@ kramdown:
 gems:
   - jekyll-sitemap
 permalink: blogs/:title/
-title: Tamanna Goyal
-email: tamannagoyal0003@gmail.com
-description: Website of Tamanna Goyal, Undergraduate student at Amity University
-keywords: Tamanna, Goyal, tamc0de,  security, developer, geek, programmer, github
+title: Guruvansh Muvel
+email: s4mc0d3@gmail.com
+description: Website of Guruvansh Muvel
+keywords: Guruvansh, Muvel, s4mc0d3,  security, developer, geek, programmer, github
 baseurl: ""
 url: http://guruvansh.com/
-name: Tam Code\'s blog
+name: s4m c0d3\'s blog
 author:
-  name: Tamanna Goyal
-  email: tamannagoya0003@gmail.com
+  name: Guruvansh Muvel
+  email: s4mc0d3@gmail.com

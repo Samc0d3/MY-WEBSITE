@@ -21,15 +21,15 @@ $(document).ready( function() {
 });
 
 function position()
-{	
+{
 	if(animationGoingOn)
 		return;
-	
+
 	if($(this).scrollTop()>220) {
 		var width = $(document).width();
 		if(width>920) {
 			$('#back-to-top').css('right', (width - 700)/4 - 75);
-			$('#back-to-top').css('bottom', (width - 700)/4 - 75);	
+			$('#back-to-top').css('bottom', (width - 700)/4 - 75);
 			$('#back-to-top').fadeIn(1000);
 		}
 		else {
