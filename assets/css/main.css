@@ -39,7 +39,7 @@ body {
   height: 220px;
   width: 220px;
   margin: 0px auto;
-}
+  }
 
 .home-body h1 {
   font-family: 'Roboto-Thin', sans-serif;
@@ -563,8 +563,8 @@ li pre {
   padding: 25px 40px;
 }
 
-.post pre code { 
-  border: none; 
+.post pre code {
+  border: none;
   padding-left: 0px;
 }
 
@@ -723,7 +723,7 @@ li pre {
     float: none;
     clear: both;
     width: auto;
-    margin: 0 0 15px; 
+    margin: 0 0 15px;
   }
 
 }

@@ -36,17 +36,27 @@
     <meta property="fb:admins" content="100006280205504">
 
     <!-- Twitter Card meta data -->
+    <meta name = "twitter:card" content = "summary">
+    <meta name = "twitter:title" content = "{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+    <meta name = "twitter:image" content = "{{ site.url }}{{ site.data.resources.avatar }}">
+    <meta name = "twitter:creator" content = "@S4mc0d3">
+    <meta name = "twitter:site" content = "@S4mc0d3">
+    <meta name = "twitter:url" content = "{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+    {% if page.excerpt %}
+    <meta name = "twitter:description" content = "{{ page.excerpt }}">
+    {% else %}
+    <meta name = "twitter:description" content = "{{ site.description }}">
+    {% endif %}
 
     <link rel = "canonical" href = "{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
 
     <link rel = "stylesheet" href = "{{ "/assets/css/main.css" | prepend: site.baseurl }}">
 
+    <link rel = "apple-touch-icon" href = "{{ site.data.resources.apple-touch-icon }}">
     <link rel = "shortcut icon" href = "{{ site.data.resources.favicon }}">
 
     <!-- Edit later as a loop -->
-    <link rel = "me" href = "{{ site.data.params.facebook_url }}">
-
     <script src = "//ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
     <script src = "/assets/js/script.js"></script>
 
