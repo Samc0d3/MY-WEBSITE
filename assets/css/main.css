@@ -7,11 +7,14 @@
 }
 
 html, body { height: 100%; }
-body {
-  background-image: url('background.png  ');
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
+
+. #home-content {
+  background-image: url("background.png"); /* The image used */
+  background-color: #cccccc; /* Used if the image is unavailable */
+  height: 500px; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
 }
 
 
@@ -37,6 +40,9 @@ body {
   text-align: center;
   padding-top: 80px;
   padding-bottom: 20px;
+  background-image: url(../images/background.png); /* The image used */ 
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
 }
 
 #profile {
