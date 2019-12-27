@@ -2,7 +2,7 @@
 
 layout:	post
 title: "Shifting to Ubuntu"
-author: "Dhaval Kapil"
+author: "Guruvansh Muvel"
 excerpt: "My transition from Windows to Ubuntu"
 keywords: ubuntu, linux, transtition, features, unix, windows, switching, comparison
 
