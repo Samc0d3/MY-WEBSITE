@@ -4,10 +4,14 @@
 * {
   margin: 0;
   padding: 0;
+  background-image: url("background.png"); /* The image used */
+  background-repeat: no-repeat;
+  background-attachment: fixed;/* Do not repeat the image */
+  background-size: cover;
 }
 
 html, body { height: 100%; }
- 
+
 header {
   background-image: url('{{ site.baseurl }}/assets/images/background.png');
 }
@@ -35,13 +39,15 @@ body {
   text-align: center;
   padding-top: 80px;
   padding-bottom: 20px;
-  background-image: url(../images/background.png); /* The image used */ 
+  background-image: url(../images/background.png); /* The image used */
   background-repeat: no-repeat; /* Do not repeat the image */
   background-size: cover; /* Resize the background image to cover the entire container */
 }
 
 #profile {
-  background-image: url(../images/home.png);
+  background-image: url(../images/home.pngbackground-image: url(../images/background.png); /* The image used */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover;);
   background-size: cover;
   border-radius: 50%;
   z-index: 1;
