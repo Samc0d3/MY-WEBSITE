@@ -8,11 +8,13 @@
 }
 
 html, body { height: 100%;
-  background-image: url("173831.jpg"); /* The image used */
+ 
+}
+#home-content, #profile, #profile-links, #home-icons {
+   background-image: url("173831.jpg"); /* The image used */
   background-repeat: no-repeat;
   background-attachment: fixed;/* Do not repeat the image */
   background-size: cover;
-}
 }
   
 
