@@ -9,11 +9,6 @@
 
 html, body {
   height: 100%;
-  background-image: url("173831.jpg"); 
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
- 
 }
   
 body {
@@ -44,7 +39,6 @@ body {
 }
 
 #profile {
-  color: darkcyan;
   background-image: url(../images/home.png) ;
   background-repeat: no-repeat; /* Do not repeat the image */
   background-size: cover;);
