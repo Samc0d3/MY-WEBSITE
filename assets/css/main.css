@@ -4,13 +4,15 @@
 * {
   margin: 0;
   padding: 0;
+  
+}
+
+html, body { height: 100%;
   background-image: url("background.png"); /* The image used */
   background-repeat: no-repeat;
   background-attachment: fixed;/* Do not repeat the image */
   background-size: cover;
 }
-
-html, body { height: 100%; }
 
 header {
   background-image: url('{{ site.baseurl }}/assets/images/background.png');
