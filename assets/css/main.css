@@ -9,10 +9,6 @@
 
 html, body { height: 100%; }
   
-header {
-  background-image: url('{{ site.baseurl }}/assets/images/background.png');
-}
-
 
 body {
   font-family: Helvetica, Arial, sans-serif;
