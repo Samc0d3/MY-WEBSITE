@@ -7,17 +7,15 @@
   
 }
 
-html, body { height: 100%;
+html, body {
+  height: 100%;
+  background-image: url("173831.jpg"); 
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
  
 }
-#home-content, #profile, #profile-links, #home-icons {
-   background-image: url("173831.jpg"); /* The image used */
-  background-repeat: no-repeat;
-  background-attachment: fixed;/* Do not repeat the image */
-  background-size: cover;
-}
   
-
 body {
   font-family: Helvetica, Arial, sans-serif;
   font-size: 16px;
