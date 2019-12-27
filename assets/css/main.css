@@ -44,6 +44,7 @@ body {
 }
 
 #profile {
+  color: darkcyan;
   background-image: url(../images/home.png) ;
   background-repeat: no-repeat; /* Do not repeat the image */
   background-size: cover;);
