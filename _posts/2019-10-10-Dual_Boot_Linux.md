@@ -15,12 +15,12 @@ I'm gonna share my experience with dual boot, well i guess souds really cool.
 Ok so what the heck DUAL BOOT is ? well DUAL BOOT is a process to use two OPERATING SYSTEMS in one COMPUTER.
 
 1. The Operating Systems I'm gonna install are LINUX and WINDOWS.
+
 I. UBUNTU :- Ubuntu is a free and open-source Linux distribution based on Debian.
 This is how UBUNTU looks like.
 ![A screenshot of my laptop](/assets/images/Shifting-to-Ubuntu/ubuntu.png) 
 
- II. WINDOWS :- Well as most of you folks have a slight idea about windows so yeah let's go further.
-
+II. WINDOWS :- Well as most of you folks have a slight idea about windows so yeah let's go further.
 ![A screenshot of my laptop](/assets/images/Shifting-to-Ubuntu/windows.png)
 
 2. Making a Bootable PENDRIVE or DVD whatever you prefer.
