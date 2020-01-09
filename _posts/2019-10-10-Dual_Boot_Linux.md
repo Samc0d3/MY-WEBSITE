@@ -14,21 +14,21 @@ keywords: ubuntu, linux, transtition, features, unix, windows, switching, compar
 I'm gonna share my experience with dual boot, well i guess souds really cool.
 Ok so what the heck DUAL BOOT is ? well DUAL BOOT is a process to use two OPERATING SYSTEMS in one COMPUTER.
 
-1. The Operating Systems I'm gonna install are LINUX and WINDOWS.
-(I). UBUNTU :- Ubuntu is a free and open-source Linux distribution based on Debian.
-![A screenshot of my laptop](/assets/images/Shifting-to-Ubuntu/ubuntu.jpg)
+The Operating Systems I'm gonna install are LINUX and WINDOWS.
+1. UBUNTU :- Ubuntu is a free and open-source Linux distribution based on Debian.
+![A screenshot of my laptop](/assets/images/Shifting-to-Ubuntu/ubuntu.jpg) 
 This is how UBUNTU looks like.
-(II). WINDOWS :- Well as most of you folks have a slight idea about windows so yeah let's go further.
-
-2. Making a Bootable PENDRIVE or DVD whatever you prefer.
+2. WINDOWS :- Well as most of you folks have a slight idea about windows so yeah let's go further.
+![A screenshot of my laptop](/assets/images/Shifting-to-Ubuntu/windows.png)
+Making a Bootable PENDRIVE or DVD whatever you prefer.
 IN WINDOWS :- Here we create bootable medium from RUFUS (A software used to create bootable medium).
 Rufus is a free and open-source portable application for Microsoft Windows that can be used to format and create bootable USB flash drives or Live USBs.
 It is developed by Pete Batard of Akeo Consulting.
-![A screenshot of my laptop](/assets/images/Shifting-to-Ubuntu/.png)
+![A screenshot of my laptop](/assets/images/Shifting-to-Ubuntu/rufus_en.png)
 
 IN UBUNTU :- Now i will show you how can you make bootable medium in UBUNTU.
 We're going to use an application called 'startup Disk Creator' to write the ISO image to your USB stick.
-This is installed by default on Ubuntu, and can be launched as simply searched it.
+This is installed by default on Ubuntu, and can be launched simply by searching it.
 ![A screenshot of my laptop](/assets/images/Shifting-to-Ubuntu/startup.png)
 
 Next step is When launched, Startup Disk Creator will look for the ISO files in your Downloads folder, as well as any attached USB storage it can write to.
@@ -38,5 +38,5 @@ Click Make Startup Disk to start the process.
 That's it! You now have Ubuntu on your USB drive, bootable and ready to go.
 ![A screenshot of my laptop](/assets/images/Shifting-to-Ubuntu/confirm.png)
 3. Let's install the OS and make it DUAL BOOT, i'm assuming you have already installed one OS(OPERATING SYSTEM) Either LINUX or WINDOWS.
-4. Now we have dual boot our OS and this is hoe it looks like and we can use any one of the two OS's.
+4. Now we have dual boot our OS and this is how it looks like and we can use any one of the two OS's.
 ![A screenshot of my laptop](/assets/images/Shifting-to-Ubuntu/dual_boot.png)
