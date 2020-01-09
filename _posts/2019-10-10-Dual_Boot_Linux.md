@@ -16,15 +16,14 @@ Ok so what the heck DUAL BOOT is ? well DUAL BOOT is a process to use two OPERAT
 
 The Operating Systems I'm gonna install are LINUX and WINDOWS.
 1. UBUNTU :- Ubuntu is a free and open-source Linux distribution based on Debian.
-
+This is how UBUNTU looks like.
 ![A screenshot of my laptop](/assets/images/Shifting-to-Ubuntu/ubuntu.png) 
 
-This is how UBUNTU looks like.
-2. WINDOWS :- Well as most of you folks have a slight idea about windows so yeah let's go further.
+ 2. WINDOWS :- Well as most of you folks have a slight idea about windows so yeah let's go further.
 
 ![A screenshot of my laptop](/assets/images/Shifting-to-Ubuntu/windows.png)
 
-3. Making a Bootable PENDRIVE or DVD whatever you prefer.
+Making a Bootable PENDRIVE or DVD whatever you prefer.
 IN WINDOWS :- Here we create bootable pendrive from RUFUS (A software used to create bootable medium).
 Rufus is a free and open-source portable application for Microsoft Windows that can be used to format and create bootable USB flash drives or Live USBs.
 
@@ -46,7 +45,7 @@ That's it! You now have Ubuntu on your USB drive, bootable and ready to go.
 
 ![A screenshot of my laptop](/assets/images/Shifting-to-Ubuntu/confirm.png)
 
-3. Let's install the OS and make it DUAL BOOT, i'm assuming you have already installed one OS(OPERATING SYSTEM) Either LINUX or WINDOWS.
-4. Now we have dual boot our OS and this is how it looks like and we can use any one of the two OS's.
+I. Let's install the OS and make it DUAL BOOT, i'm assuming you have already installed one OS(OPERATING SYSTEM) Either LINUX or WINDOWS.
+II. Now we have dual boot our OS and this is how it looks like and we can use any one of the two OS's.
 
 ![A screenshot of my laptop](/assets/images/Shifting-to-Ubuntu/dual_boot.png)
