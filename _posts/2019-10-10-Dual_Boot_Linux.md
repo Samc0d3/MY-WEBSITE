@@ -11,18 +11,32 @@ keywords: ubuntu, linux, transtition, features, unix, windows, switching, compar
 
 > ## My transition from windows to linux and dual boot.
 
-In this blog i will share my experience regarding dual boot Windows and Linux operating system.
-So let's get started, Firstly when i am using windows on my device i am not completely able to use command line in commaand prompt it makes me uncomfortable, you also feel
-uncomfortable when you switch from one operating system to another, The environment of that operating system may provide hindrance while using it, For me as well
-when i installed ubuntu in my laptop, I felt discomfort because when i switched to ubuntu before a month i bought a game for windows sudenly i wish to play that computer games but i can't because
-at that time i was using Linux Operating System and it's difficult me to play and do some task in ubuntu, So finally i decided to dual boot windows and ubuntu.
+I'm gonna share my experience with dual boot, well i guess souds really cool.
+Ok so what the heck DUAL BOOT is ? well DUAL BOOT is a process to use two OPERATING SYSTEMS in one COMPUTER.
 
-Dual booting linux is not so tough task you also can dual boot your computer or laptop , You only need bootable pen drive to dual boot
-i had created partition on windows that how much space i wlll have to provide to ubuntu and installed ubuntu.
+1. The Operating Systems I'm gonna install are LINUX and WINDOWS.
+(I). UBUNTU :- Ubuntu is a free and open-source Linux distribution based on Debian.
+![A screenshot of my laptop](/assets/images/Shifting-to-Ubuntu/ubuntu.jpg)
+This is how UBUNTU looks like.
+(II). WINDOWS :- Well as most of you folks have a slight idea about windows so yeah let's go further.
 
-Now i am using dual boot Windows and Ubuntu to my Laptop, Some task that i can't do with ubuntu i can do it with windows and whenever i wish to play computer game i use windows.
-So, As continuous using of ubuntu in my daily routine i loved using ubuntu and it's features, That made me fan of Linux Operating system.
+2. Making a Bootable PENDRIVE or DVD whatever you prefer.
+IN WINDOWS :- Here we create bootable medium from RUFUS (A software used to create bootable medium).
+Rufus is a free and open-source portable application for Microsoft Windows that can be used to format and create bootable USB flash drives or Live USBs.
+It is developed by Pete Batard of Akeo Consulting.
+![A screenshot of my laptop](/assets/images/Shifting-to-Ubuntu/.png)
 
+IN UBUNTU :- Now i will show you how can you make bootable medium in UBUNTU.
+We're going to use an application called 'startup Disk Creator' to write the ISO image to your USB stick.
+This is installed by default on Ubuntu, and can be launched as simply searched it.
+![A screenshot of my laptop](/assets/images/Shifting-to-Ubuntu/startup.png)
+
+Next step is When launched, Startup Disk Creator will look for the ISO files in your Downloads folder, as well as any attached USB storage it can write to.
+It's likely that both your Ubuntu ISO and the correct USB device will have been detected and set as ‘Source disc image' and ‘Disk to use' in the application window. If not, use the ‘Other' button to locate your ISO file and select the exact USB device you want to use from the list of devices.
+Click Make Startup Disk to start the process.
+![A screenshot of my laptop](/assets/images/Shifting-to-Ubuntu/openstartup.png)
+That's it! You now have Ubuntu on your USB drive, bootable and ready to go.
+![A screenshot of my laptop](/assets/images/Shifting-to-Ubuntu/confirm.png)
+3. Let's install the OS and make it DUAL BOOT, i'm assuming you have already installed one OS(OPERATING SYSTEM) Either LINUX or WINDOWS.
+4. Now we have dual boot our OS and this is hoe it looks like and we can use any one of the two OS's.
 ![A screenshot of my laptop](/assets/images/Shifting-to-Ubuntu/dual_boot.png)
-From here i can access both windows as well as Linux...
-
