@@ -9,7 +9,7 @@ keywords: ubuntu, linux, transtition, features, unix, windows, switching, compar
 ---
 
 
-> ## Dual_Boot_Ubuntu..
+> ## My transition from windows to linux and dual boot.
 
 In this blog i will share my experience regarding dual boot Windows and Linux operating system.
 So let's get started, Firstly when i am using windows on my device i am not completely able to use command line in commaand prompt it makes me uncomfortable, you also feel
