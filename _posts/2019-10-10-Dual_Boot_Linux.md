@@ -27,6 +27,8 @@ II. WINDOWS :- Well as most of you folks have a slight idea about windows so yea
 ![A screenshot of my laptop](/assets/images/Shifting-to-Ubuntu/windows.png)
 
 > ## Making a Bootable PENDRIVE or DVD whatever you prefer.
+
+
 IN WINDOWS :- Here we create bootable pendrive from RUFUS (A software used to create bootable medium).
 Rufus is a free and open-source portable application for Microsoft Windows that can be used to format and create bootable USB flash drives or Live USBs.
 
