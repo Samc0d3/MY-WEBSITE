@@ -14,7 +14,7 @@ keywords: ubuntu, linux, transtition, features, unix, windows, switching, compar
 I'm gonna share my experience with dual boot, well i guess souds really cool.
 Ok so what the heck DUAL BOOT is ? well DUAL BOOT is a process to use two OPERATING SYSTEMS in one COMPUTER.
 
-1. The Operating Systems I'm gonna install are LINUX and WINDOWS.
+> ## The Operating Systems I'm gonna install are LINUX and WINDOWS.
 
 
 I. UBUNTU :- Ubuntu is a free and open-source Linux distribution based on Debian.
@@ -26,7 +26,7 @@ II. WINDOWS :- Well as most of you folks have a slight idea about windows so yea
 
 ![A screenshot of my laptop](/assets/images/Shifting-to-Ubuntu/windows.png)
 
-2.Making a Bootable PENDRIVE or DVD whatever you prefer.
+> ## Making a Bootable PENDRIVE or DVD whatever you prefer.
 IN WINDOWS :- Here we create bootable pendrive from RUFUS (A software used to create bootable medium).
 Rufus is a free and open-source portable application for Microsoft Windows that can be used to format and create bootable USB flash drives or Live USBs.
 
