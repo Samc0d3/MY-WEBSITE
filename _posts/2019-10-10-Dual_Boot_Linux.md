@@ -39,7 +39,7 @@ This is installed by default on Ubuntu, and can be launched simply by searching 
 ![A screenshot of my laptop](/assets/images/Shifting-to-Ubuntu/startup.png)
 
 When Startup Disk Creator is launched,it will look for the ISO files in your Downloads folder or you may download
-an ISO image from this link https://ubuntu.com/#download, as well as any attached USB storage it can write to.
+an ISO image from this link [UBUNTU ISO image](https://ubuntu.com/#download). As well as any attached USB storage it can write to.
 It's likely that both your Ubuntu ISO and the correct USB device will have been detected and set as ‘Source disc image' and ‘Disk to use' in the application window. If not, use the ‘Other' button to locate your ISO file and select the exact USB device you want to use from the list of devices.
 Click Make Startup Disk to start the process.
 
