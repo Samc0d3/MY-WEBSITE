@@ -10,6 +10,8 @@
 html, body {
   height: 100%;
   background-image: url(28889.jpg) ;
+   background-repeat: no-repeat;
+  background-size: auto;
 }
   
 body {
