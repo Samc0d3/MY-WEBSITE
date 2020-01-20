@@ -78,6 +78,7 @@ body {
 #profile-links {
   margin: 30px;
   margin-top: 40px;
+   color: #ffffff;
 }
 
 #profile-links .home-links {
@@ -89,25 +90,29 @@ body {
   -ms-transition: all 0.2s ease-in;
   -o-transition: all 0.2s ease-in;
   transition: all 0.2s ease-in;
+   color: #ffffff;
 }
 
 #profile-links .home-links:hover {
-  color: #bbb;
+  color: #ffffff;
 }
 
 #content {
   font-family: 'AvenirNext-Regular', Helvetica, sans-serif;
   font-size: 1.1em;
+   color: #ffffff;
 }
 
 #content .title {
   font-size: 2em;
   padding-bottom: 20px;
+   color: #ffffff;
 }
 
 #content #profile {
   float: left;
   margin: 20px;
+   color: #ffffff;
 }
 
 @media screen and (max-width: 550px) {
