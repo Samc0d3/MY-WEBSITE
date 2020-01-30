@@ -18,6 +18,7 @@ body {
   line-height: 1.5;
   font-weight: 300;
   background-color: #fdfdfd;
+	
 
 }
 
@@ -37,6 +38,7 @@ body {
   background-image: url(28889.jpg); /* The image used */
   background-repeat: no-repeat; /* Do not repeat the image */
   background-size: cover; /* Resize the background image to cover the entire container */
+	
 }
 
 #profile {
@@ -57,6 +59,7 @@ body {
   letter-spacing: 2px;
   margin-top: 20px;
   margin-bottom: 0px;
+	color: black ;
   
 }
 
@@ -64,7 +67,7 @@ body {
   font-family: 'Aileron-Thin', sans-serif;
   font-size: 0.9em;
   letter-spacing: 3px;
-  
+  color: black;
 }
 
 #home-content hr {
